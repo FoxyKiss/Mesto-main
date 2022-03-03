@@ -2,6 +2,6 @@
   max-width: 122px;
   width: 100%;
   min-height: 122px;
-  object-fit: cover;
   border-radius: 50%;
+  object-fit: cover;
 }
