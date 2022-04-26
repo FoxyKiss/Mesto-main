@@ -3,7 +3,7 @@
 @import url(../blocks/root/root.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/content/content.css);
-
+@import url();
 /*HEADER*/
 @import url(../blocks/header/header.css);
 
